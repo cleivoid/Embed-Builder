@@ -15,12 +15,12 @@
     "becoditive",
     "embed-builder"
   ],
-  "author": "beCoditive <contact@becoditive.xyz>",
+  "author": "cleivoid",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Max2408/Embed-Builder/issues"
+    "url": "https://github.com/cleivoid/Embed-Builder/issues"
   },
-  "homepage": "https://github.com/Max2408/Embed-Builder#readme",
+  "homepage": "https://github.com/cleivoid/Embed-Builder",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.5",
