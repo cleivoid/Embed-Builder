@@ -1,0 +1,20 @@
+{
+    "name": "Embed Builder",
+    "description": "Just an embed builder for discord",
+    "repository": "https://github.com/cleivoid",
+    "logo": "https://cdn.discordapp.com/attachments/693123423014223905/940128983784247326/Embed_Builder.jpg",
+    "keywords": ["becoditive", "discord", "embed-builder"],
+    "env": {
+        "TOKEN": {
+          "description": "Bot Token Of Your Discord Bot.",
+          "value": "OTQwMTA2NzgzOTc0OTA3OTM0.YgCkqw.3PrpJJ29uPvlImq_RtUXDyutjrc"
+        },
+        "PASSWORD": {
+          "description": "Set Password for the panel.",
+          "value": "1906"
+        },
+        "SECRET_KEY": {
+          "generator": "IqxdSTS1NBLVGQ41F-Vw4JjFlt0icNLy"
+        }
+      }
+}
