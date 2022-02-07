@@ -1,7 +1,7 @@
 {
     "name": "Embed Builder",
     "description": "Just an embed builder for discord",
-    "repository": "https://github.com/cleivoid",
+    "repository": "https://github.com/cleivoid/Embed-Builder",
     "logo": "https://cdn.discordapp.com/attachments/693123423014223905/940128983784247326/Embed_Builder.jpg",
     "keywords": ["becoditive", "discord", "embed-builder"],
     "env": {
